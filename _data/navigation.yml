@@ -1,0 +1,20 @@
+# main links
+main:
+  # - title: About Me
+  #   url: /index.html
+  #   description: "Or, the homepage"
+  - title: "In Progress"
+    url: /projects.html
+    description: "Words in the works"
+  - title: "Teaching"
+    url: /teaching.html
+    description: "Can't learn without it"
+  - title: "CV"
+    url: /cv.html
+    description: "Or, at least, *part* of the course"
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
