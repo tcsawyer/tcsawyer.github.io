@@ -1,8 +1,7 @@
 ---
 layout: single
-title: In progress
+title: Book Projects
 ---
-# Book Projects
 
 ## How to Read a Medieval Book: Recomposing Bodley 851
 
