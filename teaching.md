@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Currently Teaching
 ---
-
-# Currently Teaching
 
 ## *Imagining the Medieval in Modern Fantasy and Science Fiction*
 
