@@ -7,8 +7,7 @@ Medieval literature and culture, book history, miscellany manuscripts, compilati
 
 # Education
 
-Ph.D. Candidate (ABD), Washington University in St. Louis.
-Degree expected May 2021
+Ph.D. Candidate (ABD), Washington University in St. Louis. Defended: 14 May 2021
 
 > Dissertation: How to Read a Medieval Book: Recomposing Bodley 851
 >
@@ -24,11 +23,11 @@ B.A. English, B.A. Mathematics, Hillsdale College, 2011
 
 #### Peer Reviewed Articles
 
+"Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_," Forthcoming. _English Literary History_.
+
 "Insatiability, Experience, and Embodiment: Reading the Codicological Unconscious in a Fragment of MS Bodley 851," Accepted pending revisions. _Studies in the Age of Chaucer_.
 
-“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” Conditional Acceptance. _Philological Quarterly_.
-
-"Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_," Revise and resubmit, _English Literary History_.
+“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” Accepted pending revisions. _Philological Quarterly_.
 
 #### Book Reviews
 
@@ -90,9 +89,7 @@ _Literature in English: Early Texts and Contexts_
 Teaching Assistant, with David Lawton, Spring 2018.
 _Voice, Language and Power: Late Medieval Religious Writing_
 
-Instructor,	Fall 2016 and Fall 2017.
-Lectures from Wolfram Schmidgen.
-_Writing I: What is Justice?_
+Instructor, Fall 2016 and Fall 2017. Lectures from Wolfram Schmidgen. _Writing I: What is Justice?_
 
 #### Mesquite, TX and Phoenix, AZ
 
