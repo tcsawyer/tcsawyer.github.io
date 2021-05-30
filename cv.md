@@ -7,7 +7,7 @@ Medieval literature and culture, book history, miscellany manuscripts, compilati
 
 # Education
 
-Ph.D. Candidate (ABD), Washington University in St. Louis. Defended: 14 May 2021
+Ph.D., Washington University in St. Louis. Defended: 14 May 2021
 
 > Dissertation: How to Read a Medieval Book: Recomposing Bodley 851
 >
