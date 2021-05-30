@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: Hi, hello, greetings, welcome!
+title: ''
 
 ---
 I’m Tom Sawyer, and I recently defended my Ph.D. in English and Comparative Literature at Washington University in St. Louis. My dissertation is titled, _How to Read A Medieval Book: Recomposing Bodley 851_. I study medieval English miscellany manuscripts and their textual arrangements, with focus on Anglo-Latin and Middle English poetry of the twelfth through fourteenth centuries. When I’m feeling adventurous, I sometimes dabble in the fifteenth, sixteenth, or -- on days propitious for ambition -- seventeenth centuries as well!
