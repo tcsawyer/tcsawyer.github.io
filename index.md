@@ -10,4 +10,6 @@ My current research continues to focus on Oxford, Bodleian Library MS Bodley 851
 
 I have also begun to expand my miscellaneous repertoire after a systematic fashion, in a data-driven project provisionally titled _Codicological Categories in England._ There, I ask how practices of material and textual compilation, considered in the aggregate, calcified in the formation of modern genres. I am especially interested in the perspective we gain from those oft-copied (by medieval scribes) and little-read (by modern scholars) poems often inefficiently termed "goliardic," and particularly how they function as members of a broad manuscript network.
 
-For the time being, I have begun to learn from my friends and colleagues in DH how to “build a professional website” – so thank you for visiting this work in progress. (May all work ever be "in progress"!) As improvements are necessary, improvements may be made: until then, thanks for stopping by. It's comforting, to me, to know I exist, and now you know too!
+Thank you for stopping by this website of mine. As improvements are necessary, improvements will be made. Until then, know that it's comforting, to me, to know I exist -- and now you know too! The world is full of wonders.
+
+\--Tom
