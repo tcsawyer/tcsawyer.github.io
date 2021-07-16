@@ -55,6 +55,13 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# Analytics (from _include/analytics.html)
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-TXRMG0KRSG"
+    anonymize_ip: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
