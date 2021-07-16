@@ -1,8 +1,10 @@
 ---
 layout: single
-title: Currently Teaching
+title: ''
 
 ---
+# Currently Teaching
+
 ## _Early Texts and Contexts_ (Fall 2021)
 
 How did what we now call English literature emerge? How did literary activity shape the world, and how did the world shape writing? How can literature help us understand the history of art, race, religious identity and sectarian conflict, nations and empires, gender, sexuality, and class? We will address these questions by studying the early history of literature in English, from the Middle Ages through the late eighteenth century, as well as the tools, vocabularies, and critical practices of contemporary literary studies. We will learn about both the material forms of English literature (manuscript, print, and performance traditions) and major poetry and prose forms (sonnet, epic, blank verse, romance, letter, slave narrative, and more). In addition to Geoffrey Chaucer, William Shakespeare, John Milton, and Ignatius Sancho or Olaudah Equiano, the syllabus may include authors and texts such as "Beowulf," "Sir Gawain and the Green Knight," Julian of Norwich, Edmund Spenser, Margaret Cavendish, Aphra Behn, Daniel Defoe, and Eliza Haywood. NOTE: Satisfies one of the two 200-level requirements for the English Major.
