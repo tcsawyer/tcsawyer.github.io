@@ -57,7 +57,7 @@ plugins:
 
 # Analytics (from _include/analytics.html)
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-TXRMG0KRSG"
     anonymize_ip: true
