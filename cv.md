@@ -1,8 +1,10 @@
 ---
 layout: single
-title: Research Interests
+title: ''
 
 ---
+# Research Interests
+
 Medieval literature and culture, book history, miscellany manuscripts, compilation, literary history, Middle English poetry, Latin poetry, theories of genre, anonymous literature, theories of authorship
 
 # Education
