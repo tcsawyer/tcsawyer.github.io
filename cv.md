@@ -80,6 +80,11 @@ International Congress on Medieval Studies. Panel: Middle English Devotional Lit
 
 # Teaching experience
 
+#### The University of Chicago
+
+Writing Specialist, September 2021 - Present  
+_Humanities Core Sequence_
+
 #### Washington University in St. Louis
 
 Instructor, Fall 2020.
