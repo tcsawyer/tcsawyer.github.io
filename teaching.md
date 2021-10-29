@@ -5,7 +5,15 @@ title: ''
 ---
 # Currently Teaching
 
-\[More information soon!\]
+## Writing Specialist: _Human Being and Citizen I_ (Autumn 2021)
+
+Overview for students:
+
+Your Writing Seminars are affiliated with your Humanities Core Sequence, and they are structured to help you succeed as a writer in your core courses. These seminars also constitute their own course, however, which is pass/fail and necessary to graduate. Throughout the quarter, we will use your written work for _Human Being and Citizen_ as a point of departure for thinking through best practices in argumentative writing. While I have set topics for discussion corresponding to each week, it is best to think of these topics as provocative, rather than delimiting: it is most important to me that you become a better writer. The tools and approaches I prepare are means toward that end.
+
+Main course blurb:
+
+The autumn quarter explores the ways that Ancient Greek \[sic\] and the Abrahamic text of Genesis conceive of, express ideals about, and articulate tensions in conceptions and practices of justice, human and divine law, and emotion. We examine the ways these conceptions figure in literary, philosophical and religious texts concerned with rupture and continuity in the social order. We consider the ways human beings come together in groups (families, cities, armies, but also beliefs and aspirations) and strive to understand what binds these groups as structures of meaning-making and social practice. Texts include Homer's Iliad, the book of Genesis, Plato's Apology and Laches, and Sophocles' Antigone.
 
 # Past Courses
 
