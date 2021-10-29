@@ -25,11 +25,11 @@ B.A. English, B.A. Mathematics, Hillsdale College, 2011
 
 #### Peer Reviewed Articles
 
-"Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_." Forthcoming (Fall 2022). _ELH_.
-
 "Insatiability, Experience, and Embodiment: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." Forthcoming (2023). _Studies in the Age of Chaucer_.
 
-“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” Accepted pending revisions. _Philological Quarterly_.
+"Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_." Forthcoming (Fall 2022). _ELH_.
+
+“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” Forthcoming (Spring 2021). _Philological Quarterly_.
 
 #### Book Reviews
 
@@ -83,7 +83,7 @@ International Congress on Medieval Studies. Panel: Middle English Devotional Lit
 #### The University of Chicago
 
 Writing Specialist, September 2021 - Present  
-_Humanities Core Sequence_
+_Humanities Core Sequence: Human Being and Citizen_
 
 #### Washington University in St. Louis
 
