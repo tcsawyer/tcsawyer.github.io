@@ -25,11 +25,11 @@ B.A. English, B.A. Mathematics, Hillsdale College, 2011
 
 #### Peer Reviewed Articles
 
-"Insatiability, Experience, and Embodiment: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." Forthcoming (2023). _Studies in the Age of Chaucer_.
+"Insatiability, Experience, and Embodiment: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." _Studies in the Age of Chaucer_ 44 (Forthcoming, 2022).
 
-"Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_." Forthcoming (Spring 2022). _ELH_.
+"Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_." _ELH_ 89, no. 1 (Forthcoming, Spring 2022).
 
-“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” Forthcoming (Fall 2021). _Philological Quarterly_.
+“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no.1 (Forthcoming, Winter 2022).
 
 #### Book Reviews
 
