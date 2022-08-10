@@ -15,7 +15,7 @@ The method requires persistent attention to a single book-object. Accordingly, o
 
 In _How to Read a Medieval Book_, the production of a single manuscript informs a shifting archive of textual relations, in which material compilation continuously alters the horizons of literary meaning. My analyses treat a wide array of topics at the intersection of material and literary cultures that will be of interest to medievalists and generalist readers alike, including medieval representations of women, depictions of marvelous and fantastic occurrences, and scribal habits of imitation.
 
-## Codicological Categories in England
+## Codicological Categories in Medieval England
 
 Modern scholarship on medieval source material tends to separate book-historical study from literary interpretation. Without significantly addressing textual contents, book historians can uncover an astounding array of information surrounding the economic, social, and political processes that governed medieval manuscript production. Without significantly addressing material contexts, literary scholars undertake assessment of texts, individually or in groups, in terms of poetry, prose, history, romance, Latinity, vernacularity, devotion, parody, and praise – as a small sampling of appropriate descriptive terms – according to formal, conventional, and thematic markers. Several scholarly movements, such as the ‘New Philology’ and the ‘New Formalism’, have endeavored to bring these two modes of study closer together. No clear methodology has arisen from these movements, however, and the most successful studies have not generated replicable procedures for scholars to follow, modify, or critique.
 
