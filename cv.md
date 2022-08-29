@@ -31,7 +31,7 @@ B.A. English, B.A. Mathematics, Hillsdale College, 2011
 
 “Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no. 1-2 (2022): 111-133.
 
-“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ (Accepted pending revisions).
+“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (Forthcoming, 2023).
 
 #### Book Reviews
 
