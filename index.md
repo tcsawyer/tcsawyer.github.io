@@ -6,7 +6,7 @@ title: ''
 ---
 I’m Tom Sawyer, a writing specialist at The University of Chicago. I earned my Ph.D. in English and Comparative Literature at Washington University in St. Louis in 2021.
 
-As an instructor of writing, I am committed to developing innovative, equitable approaches to the teaching of writing across the curriculum in reader-centered and process-centered modes. I aim to prepare students to communicate effectively to a broad array of audiences while expressing themselves confidently in their own voices.
+As an instructor of writing, I am committed to developing innovative, equitable approaches to the teaching of writing across the curriculum in both reader-centered and process-centered modes. I aim to prepare students to communicate effectively to a broad array of audiences while expressing themselves confidently in their own voices.
 
 As a scholar of the Middle Ages and literary comparatist, my research focuses on medieval miscellany manuscripts and their textual arrangements. I primarily deal with Anglo-Latin and Middle English poetry of the twelfth through fourteenth centuries. When I’m feeling adventurous, I sometimes dabble in the fifteenth, sixteenth, or -- on days propitious for ambition -- seventeenth centuries as well!
 
