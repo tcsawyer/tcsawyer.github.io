@@ -58,6 +58,12 @@ Hillsdale College Department of External Affairs. Writer and editor for Monica V
 
 # Presentations
 
+“Examining Variance without Variants: Bodley 851 and the Early Circulation of the C-Text of _Piers Plowman_.”   
+Meeting of the International Piers Plowman Society. Panel: The Manuscripts of _Piers Plowman_. July 2023. London, U.K.
+
+“Abstraction and Exemplarity in Medieval-themed Board Games.”   
+International Congress on Medieval Studies. Panel: Games and Medievalism II: Reading Games in Medieval Culture. May, 2023. Kalamazoo, MI.
+
 “Walter Map’s _Piers Plowman_,”
 Congress of the New Chaucer Society. Panel: Between the Lines and Margins. Originally July 2020, postponed to July 2022 due to SARS-CoV-2. Durham, U.K.
 
