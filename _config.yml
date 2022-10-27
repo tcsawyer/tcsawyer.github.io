@@ -22,9 +22,9 @@
 
 title: Thomas C. Sawyer
 subtitle: a human being
-email: tsawyer@wustl.edu
+email: tsawyer@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. candidate in English and Comparative Literature at Washinton University in St. Lous. Medievalist by training, teacher by trade, amateur computers-person by happenstance alone.
+  Writing Specialist at the University of Chicago. Medievalist by training, teacher by trade, finagler of machines by happenstance alone.
 # url: "tcsawyer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 # AN IMPORTANT LINK: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
