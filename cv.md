@@ -23,15 +23,20 @@ B.A. English, B.A. Mathematics, Hillsdale College, 2011
 
 # Publications
 
+#### Monographs
+
+_How to Read a Medieval Book: Recomposing MS Bodley 851.  
+_Under review, Boydell and Brewer.
+
 #### Peer Reviewed Articles
 
-“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56.
+“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56. \[forthcoming\]
 
-"Insatiability, Experience, and Embodiment: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." _Studies in the Age of Chaucer_ 44 (2022): 193-232.
+"Wicked Wives and the Insatiable Virgin: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." _Studies in the Age of Chaucer_ 44 (2022): 193-232. [https://muse.jhu.edu/pub/102/article/872794](https://muse.jhu.edu/pub/102/article/872794 "https://muse.jhu.edu/pub/102/article/872794")
 
 "Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_." _ELH_ 89, no. 1 (2022), 1-31. [https://doi.org/10.1353/elh.2022.0000](https://doi.org/10.1353/elh.2022.0000 "https://doi.org/10.1353/elh.2022.0000").
 
-“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no. 1-2 (2022): 111-133.
+“Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no. 1-2 (2022): 111-133. [https://link.gale.com/apps/doc/A713671334/LitRC](https://link.gale.com/apps/doc/A713671334/LitRC "https://link.gale.com/apps/doc/A713671334/LitRC")
 
 #### Book Reviews
 
@@ -58,10 +63,10 @@ Hillsdale College Department of External Affairs. Writer and editor for Monica V
 
 # Presentations
 
-“Examining Variance without Variants: Bodley 851 and the Early Circulation of the C-Text of _Piers Plowman_.”   
+“Examining Variance without Variants: Bodley 851 and the Early Circulation of the C-Text of _Piers Plowman_.”  
 Meeting of the International Piers Plowman Society. Panel: The Manuscripts of _Piers Plowman_. July 2023. London, U.K.
 
-“Abstraction and Exemplarity in Medieval-themed Board Games.”   
+“Abstraction and Exemplarity in Medieval-themed Board Games.”  
 International Congress on Medieval Studies. Panel: Games and Medievalism II: Reading Games in Medieval Culture. May, 2023. Kalamazoo, MI.
 
 “Walter Map’s _Piers Plowman_,”
