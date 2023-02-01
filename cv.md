@@ -25,8 +25,8 @@ B.A. English, B.A. Mathematics, Hillsdale College, 2011
 
 #### Monographs
 
-_How to Read a Medieval Book: Recomposing MS Bodley 851.  
-_Under review, Boydell and Brewer.
+_How to Read a Medieval Book: Recomposing MS Bodley 851_  
+Under review, Boydell and Brewer.
 
 #### Peer Reviewed Articles
 
