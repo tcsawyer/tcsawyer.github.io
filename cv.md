@@ -5,13 +5,20 @@ title: ''
 ---
 # Research Interests
 
-Medieval literature and culture, book history, miscellany manuscripts, compilation, literary history, Middle English poetry, Latin poetry, theories of genre, anonymous literature, theories of authorship
+Medieval literature and culture, book history, miscellany manuscripts, compilation, Middle English poetry, Anglo-Latin poetry, theories of genre, anonymous literature, theories of authorship, medievalism, speculative fiction, analog gaming, game design.
+
+# Professional Appointments
+
+### The University of Chicago
+
+Writing Specialist, College Writing Program (September 2021 – Present)  
+_Humanities Core Sequence: Human Being and Citizen_
 
 # Education
 
 Ph.D., Washington University in St. Louis, August 2021
 
-> Dissertation: How to Read a Medieval Book: Recomposing Bodley 851
+> Dissertation: _How to Read a Medieval Book: Recomposing Bodley 851_
 >
 > Supervisors: Jessica Rosenfeld, David Lawton, Christian Schneider, Michelle Karnes
 >
@@ -19,16 +26,14 @@ Ph.D., Washington University in St. Louis, August 2021
 
 M.A. English and Comparative literature, WashU, 2017
 
-B.A. English, B.A. Mathematics, Hillsdale College, 2011
-
 # Publications
 
-#### Monographs
+### Monographs
 
-_How to Read a Medieval Book: Recomposing MS Bodley 851_  
-Under review, Boydell and Brewer.
+_Recomposing MS Bodley 851_  
+Boydell and Brewer, contract under negotiation.
 
-#### Peer Reviewed Articles
+### Peer Reviewed Articles
 
 “Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56. \[forthcoming\]
 
@@ -38,30 +43,35 @@ Under review, Boydell and Brewer.
 
 “Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no. 1-2 (2022): 111-133. [https://link.gale.com/apps/doc/A713671334/LitRC](https://link.gale.com/apps/doc/A713671334/LitRC "https://link.gale.com/apps/doc/A713671334/LitRC")
 
-#### Book Reviews
+# Works in progress
 
-Smith, Joshua Byron. _Walter Map and the Matter of Britain_. Philadelphia: University of Pennsylvania Press, 2017. pp. 272, ISBN 9780812249323.
-_Hortulus: The Online Graduate Journal of Medieval Studies_. 2018.
+### Book Projects
 
-# Research and Editorial Positions
+_Codicological Categories in Medieval England_
 
-#### Washington University in St. Louis
+_Board Games as Literature: Agency, Imagination, and the Ludic Text_ (edited collection)
 
-_Chaucer Encyclopedia_ (in progress). Research Assistant for Jessica Rosenfeld.
+### Articles
 
-_Exemplaria_ vol. 31.3 (2019). Editorial Assistant for Jessica Rosenfeld.
+“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. Under review, _Journal of Medieval Latin_.
 
-_The Norton Chaucer_ (2019). Proofreader and Copy Editor for David Lawton.
+“Goliardic Networks: Circulation and Influence of Anglo-Latin Poetry in Fourteenth-Century England”
 
-_Chaucer and the Subversion of Form_ (2018). Proofreader and Copy Editor for Thomas A. Prendergast and Jessica Rosenfeld.
+“Marguerite Porete’s Bookish Imagination” (In Preparation)
 
-#### Hillsdale College
+“Revisiting the Production of the Z-text of Piers Plowman” (In Preparation)
 
-_Piers Plowman Electronic Archive_. Research Assistant for Patricia Bart.
+“Memories of the Present: Medievalism, Imagination, and Civilization in N.K. Jemisin’s _The Fifth Season_, Arkady Martine’s _A Memory Called Empire_, and Rebecca Roanhorse’s _Black Sun_” (In Preparation)
 
-Hillsdale College Department of External Affairs. Writer and editor for Monica VanderWeide.
+“Reading Much, Forgetting More: The Afterlifes of the _Apocalypsis goliae episcopi_ in Print and Translation.” (In Preparation)
 
-# Presentations
+### Creative
+
+_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation.
+
+_Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspired by Dante’s _Purgatorio_.
+
+# Papers Presented
 
 “Examining Variance without Variants: Bodley 851 and the Early Circulation of the C-Text of _Piers Plowman_.”  
 Meeting of the International Piers Plowman Society. Panel: The Manuscripts of _Piers Plowman_. July 2023. London, U.K.
@@ -91,7 +101,7 @@ International Congress on Medieval Studies. Panel: Imagining the Afterlife. May 
 “A Coincidence of Form: Manuscript Formalisms and the Tyranny of the Text,”
 International Congress on Medieval Studies. Panel: Middle English Devotional Literature. May 2017. Kalamazoo, MI.
 
-# Teaching experience
+# Teaching Experience
 
 #### The University of Chicago
 
@@ -111,17 +121,28 @@ _Voice, Language and Power: Late Medieval Religious Writing_
 
 Instructor, Fall 2016 and Fall 2017. Lectures from Wolfram Schmidgen. _Writing I: What is Justice?_
 
-#### Mesquite, TX and Phoenix, AZ
+# Research and Editorial Positions
 
-Curriculum consultant, mathematics, 2017.
-Barney Charter School Initiative, grades 3-9
+### Washington University in St. Louis
 
-Instructor, mathematics, 2013 - 2014.
-Arizona School for the Arts, grades 10-11
+_Chaucer Encyclopedia_. Research Assistant for Jessica Rosenfeld.
 
-Instructor, mathematics, literature, and history, 2011 - 2013.
-Anthem Preparatory Academy, grades 6-8
+_Exemplaria_ vol. 31.3 (2019). Editorial Assistant for Jessica Rosenfeld.
 
-#### Hillsdale, MI
+_The Norton Chaucer_ (2019). Proofreader and Copy Editor for David Lawton.
 
-Hillsdale College Writing Center, 2008-2011
+_Chaucer and the Subversion of Form_ (2018). Proofreader and Copy Editor for Thomas A. Prendergast and Jessica Rosenfeld.
+
+# Academic Service
+
+### University of Chicago
+
+Co-convener, Midwest Middle English Reading Group
+
+### Washington University in St. Louis
+
+Co-convener, Medieval Colloquium Writing Group
+
+Co-convener, Reading Group on Form and Formalism
+
+Co-convener, Latin Reading Group: Walter Map
