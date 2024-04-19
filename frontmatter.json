@@ -48,5 +48,15 @@
   ],
   "frontMatter.framework.id": "jekyll",
   "frontMatter.content.publicFolder": "assets",
-  "frontMatter.preview.host": "http://localhost:4000"
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/tcsawyer.github.io",
+      "title": "tcsawyer.github.io"
+    },
+    {
+      "title": "tcsawyer.github.io",
+      "path": "[[workspace]]/tcsawyer.github.io"
+    }
+  ]
 }
