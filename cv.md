@@ -28,20 +28,28 @@ M.A. English and Comparative literature, WashU, 2017
 
 # Publications
 
-### Monographs
+### Books and Volumes
 
-_Recomposing MS Bodley 851_  
-Boydell and Brewer, contract under negotiation.
+_Manuscript Meaning: Making MS Bodley 851_  
+Boydell and Brewer (forthcoming).
+
+Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Special issue of _English Language Notes_ (forthcoming, Spring 2026).
 
 ### Peer Reviewed Articles
 
-“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56. \[forthcoming\]
+“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ (forthcoming, 2024).
+
+“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56.
 
 "Wicked Wives and the Insatiable Virgin: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." _Studies in the Age of Chaucer_ 44 (2022): 193-232. [https://muse.jhu.edu/pub/102/article/872794](https://muse.jhu.edu/pub/102/article/872794 "https://muse.jhu.edu/pub/102/article/872794")
 
 "Bookish Brains and Visionary Learning in the _Apocalypsis goliae episcopi_." _ELH_ 89, no. 1 (2022), 1-31. [https://doi.org/10.1353/elh.2022.0000](https://doi.org/10.1353/elh.2022.0000 "https://doi.org/10.1353/elh.2022.0000").
 
 “Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no. 1-2 (2022): 111-133. [https://link.gale.com/apps/doc/A713671334/LitRC](https://link.gale.com/apps/doc/A713671334/LitRC "https://link.gale.com/apps/doc/A713671334/LitRC")
+
+### Creative
+
+_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation (Under review). Available for playtesting: [https://towergrovegames.com/blog/please-playtest-exemplar/](https://towergrovegames.com/blog/please-playtest-exemplar/)
 
 # Works in progress
 
@@ -53,7 +61,7 @@ _Board Games as Literature: Agency, Imagination, and the Ludic Text_ (edited col
 
 ### Articles
 
-“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. Under review, _Journal of Medieval Latin_.
+“Michael of Cornwall’s Third Invective Against Henry of Avranches,” with Paul Vinhage.
 
 “Goliardic Networks: Circulation and Influence of Anglo-Latin Poetry in Fourteenth-Century England”
 
@@ -61,20 +69,34 @@ _Board Games as Literature: Agency, Imagination, and the Ludic Text_ (edited col
 
 “Revisiting the Production of the Z-text of Piers Plowman” (In Preparation)
 
-“Memories of the Present: Medievalism, Imagination, and Civilization in N.K. Jemisin’s _The Fifth Season_, Arkady Martine’s _A Memory Called Empire_, and Rebecca Roanhorse’s _Black Sun_” (In Preparation)
+“Memories of the Global Present: Medievalism, Imagination, and Civilization in N.K. Jemisin’s _The Fifth Season_, Arkady Martine’s _A Memory Called Empire_, and Rebecca Roanhorse’s _Black Sun_” (In Preparation)
 
 “Reading Much, Forgetting More: The Afterlifes of the _Apocalypsis goliae episcopi_ in Print and Translation.” (In Preparation)
 
 ### Creative
 
-_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation.
-
 _Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspired by Dante’s _Purgatorio_.
 
 # Papers Presented
 
-“Examining Variance without Variants: Bodley 851 and the Early Circulation of the C-Text of _Piers Plowman_.”  
-Meeting of the International Piers Plowman Society. Panel: The Manuscripts of _Piers Plowman_. July 2023. London, U.K.
+(Session Organizer) with Zachary Hines. “Postmedieval Collections and Compilations.”
+Congress of the New Chaucer Society. July 2024. Pasadena, CA.
+
+“Heaven’s Currency: Prayer, Debt, and Value in _Purgatorio_ and the _House of Fame_.”
+Congress of the New Chaucer Society. Panel: Debt and Indebtedness I: Indebted Communities. July 2024. Pasadena, CA.
+
+“Speculative Medievalisms in _A Memory Called Empire_.”
+International Congress on Medieval Studies. Panel: Science Fiction Medievalisms (3): Complex Readings. May 2025. Kalamazoo, MI.
+
+(Sub-theme Organizer) “The Craft of Self.”
+Sewanee Medieval Colloquium. April 2024. Sewanee, TN.
+
+“Plagiarism and Personhood in Michael of Cornwall’s _Invectives_ against Henry of Avranches.”
+Sewanee Medieval Colloquium. Panel: Community Identity in Literature. 
+April 2024. Sewanee, TN.
+
+“Examining Variance without Variants: Bodley 851 and the Early Circulation of the C-Text of _Piers Plowman_.”
+Meeting of the International Piers Plowman Society. Panel: The Manuscripts of Piers Plowman. July 2023. London, U.K. [paper withdrawn for lack of funding]
 
 “Abstraction and Exemplarity in Medieval-themed Board Games.”  
 International Congress on Medieval Studies. Panel: Games and Medievalism II: Reading Games in Medieval Culture. May, 2023. Kalamazoo, MI.
@@ -136,6 +158,8 @@ _Chaucer and the Subversion of Form_ (2018). Proofreader and Copy Editor for Tho
 # Academic Service
 
 ### University of Chicago
+
+Resident Head, Hoover House (2023-present)
 
 Co-convener, Midwest Middle English Reading Group
 
