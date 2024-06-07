@@ -7,12 +7,28 @@ title: ''
 
 Medieval literature and culture, book history, miscellany manuscripts, compilation, Middle English poetry, Anglo-Latin poetry, theories of genre, anonymous literature, theories of authorship, medievalism, speculative fiction, analog gaming, game design.
 
-# Professional Appointments
+# Academic Employment
 
 ### The University of Chicago
 
 Writing Specialist, College Writing Program (September 2021 – Present)  
 _Humanities Core Sequence: Human Being and Citizen_
+
+### Washington University in St. Louis
+
+#### Instructor of Record
+
+Imagining the Medieval in Modern Fantasy and Science Fiction( Fall 2020)
+
+Literature in English: Early Texts and Contexts, with David Lawton (Fall 2018)
+
+Writing I: What is Justice? (Fall 2016, Fall 2017)
+
+
+#### Teaching Assistant
+
+Voice, Language and Power: Late Medieval Religious Writing, with David Lawton (Spring 2018)
+
 
 # Education
 
@@ -31,11 +47,13 @@ M.A. English and Comparative literature, WashU, 2017
 ### Books and Volumes
 
 _Manuscript Meaning: Making MS Bodley 851_  
-Boydell and Brewer (forthcoming).
+Boydell and Brewer (forthcoming, 2025).
 
 Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Special issue of _English Language Notes_ (forthcoming, Spring 2026).
 
 ### Peer Reviewed Articles
+
+“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55.2 (forthcoming, 2025).
 
 “Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ (forthcoming, 2024).
 
@@ -49,33 +67,29 @@ Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Speci
 
 ### Creative
 
-_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation (Under review). Available for playtesting: [https://towergrovegames.com/blog/please-playtest-exemplar/](https://towergrovegames.com/blog/please-playtest-exemplar/)
+_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation (Under review). Previous edition available for playtesting: [https://towergrovegames.com/blog/please-playtest-exemplar/](https://towergrovegames.com/blog/please-playtest-exemplar/)
 
 # Works in progress
 
 ### Book Projects
 
-_Codicological Categories in Medieval England_
+_Codicological Categories in Medieval England_ (in preparation)
 
 _Board Games as Literature: Agency, Imagination, and the Ludic Text_ (edited collection)
 
 ### Articles
 
-“Michael of Cornwall’s Third Invective Against Henry of Avranches,” with Paul Vinhage.
+“Michael of Cornwall’s Third Invective Against Henry of Avranches,” with Paul Vinhage (In preparation).
 
-“Goliardic Networks: Circulation and Influence of Anglo-Latin Poetry in Fourteenth-Century England”
+“Goliardic Networks: Circulation and Influence of Anglo-Latin Poetry in Fourteenth-Century England” (In preparation).
 
-“Marguerite Porete’s Bookish Imagination” (In Preparation)
+“Marguerite Porete’s Bookish Imagination” (In Preparation).
 
-“Revisiting the Production of the Z-text of Piers Plowman” (In Preparation)
-
-“Memories of the Global Present: Medievalism, Imagination, and Civilization in N.K. Jemisin’s _The Fifth Season_, Arkady Martine’s _A Memory Called Empire_, and Rebecca Roanhorse’s _Black Sun_” (In Preparation)
-
-“Reading Much, Forgetting More: The Afterlifes of the _Apocalypsis goliae episcopi_ in Print and Translation.” (In Preparation)
+“Revisiting the Production of the Z-text of Piers Plowman” (In Preparation).
 
 ### Creative
 
-_Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspired by Dante’s _Purgatorio_.
+_Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspired by Dante’s _Purgatorio_ (In preparation).
 
 # Papers Presented
 
@@ -123,25 +137,17 @@ International Congress on Medieval Studies. Panel: Imagining the Afterlife. May 
 “A Coincidence of Form: Manuscript Formalisms and the Tyranny of the Text,”
 International Congress on Medieval Studies. Panel: Middle English Devotional Literature. May 2017. Kalamazoo, MI.
 
-# Teaching Experience
+# Awards, Fellowships, and Grants
 
-#### The University of Chicago
+### New Chaucer Society
+Early Career Fellow at the Bodleian Library	(2024-25)
+Donald R. Howard Scholarship	(2024, 2022, 2018)
 
-Writing Specialist, September 2021 - Present  
-_Humanities Core Sequence: Human Being and Citizen_
+### Sewanee Medieval Colloquium
+Travel Award (2024)
 
-#### Washington University in St. Louis
-
-Instructor, Fall 2020.
-_Imagining the Medieval in Modern Fantasy and Science Fiction_
-
-Co-Instructor, with David Lawton, Fall 2018.
-_Literature in English: Early Texts and Contexts_
-
-Teaching Assistant, with David Lawton, Spring 2018.
-_Voice, Language and Power: Late Medieval Religious Writing_
-
-Instructor, Fall 2016 and Fall 2017. Lectures from Wolfram Schmidgen. _Writing I: What is Justice?_
+### International Piers Plowman Society
+Derek Pearsall Travel and Research Fund [declined] (2023)
 
 # Research and Editorial Positions
 
@@ -155,9 +161,23 @@ _The Norton Chaucer_ (2019). Proofreader and Copy Editor for David Lawton.
 
 _Chaucer and the Subversion of Form_ (2018). Proofreader and Copy Editor for Thomas A. Prendergast and Jessica Rosenfeld.
 
+# Professional Affiliations
+
+Modern Language Association
+
+Medieval Academy of America
+
+New Chaucer Society
+
+International Piers Plowman Society
+
+Early English Text Society
+
 # Academic Service
 
 ### University of Chicago
+
+Contributing Reviewer, International Congress on Medieval Studies (2024)
 
 Resident Head, Hoover House (2023-present)
 
