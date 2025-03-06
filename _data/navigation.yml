@@ -3,9 +3,9 @@ main:
   # - title: About Me
   #   url: /index.html
   #   description: "Or, the homepage"
-  - title: "In Progress"
-    url: /projects.html
-    description: "Words in the works"
+#  - title: "In Progress"
+#    url: /projects.html
+#    description: "Words in the works"
   - title: "Teaching"
     url: /teaching.html
     description: "Can't learn without it"
