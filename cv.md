@@ -7,29 +7,6 @@ title: ''
 
 Medieval literature and culture, book history, miscellany manuscripts, compilation, Middle English poetry, Anglo-Latin poetry, theories of genre, anonymous literature, theories of authorship, medievalism, speculative fiction, analog gaming, game design.
 
-# Academic Employment
-
-### The University of Chicago
-
-Writing Specialist, College Writing Program (September 2021 – Present)  
-_Humanities Core Sequence: Human Being and Citizen_
-
-### Washington University in St. Louis
-
-#### Instructor of Record
-
-Imagining the Medieval in Modern Fantasy and Science Fiction( Fall 2020)
-
-Literature in English: Early Texts and Contexts, with David Lawton (Fall 2018)
-
-Writing I: What is Justice? (Fall 2016, Fall 2017)
-
-
-#### Teaching Assistant
-
-Voice, Language and Power: Late Medieval Religious Writing, with David Lawton (Spring 2018)
-
-
 # Education
 
 Ph.D., Washington University in St. Louis, August 2021
@@ -42,20 +19,36 @@ Ph.D., Washington University in St. Louis, August 2021
 
 M.A. English and Comparative literature, WashU, 2017
 
+
+# Academic Employment
+
+### The University of Chicago
+
+Writing Specialist, College Writing Program (September 2021 – Present)  
+_Humanities Core Sequence: Human Being and Citizen_
+
+Resident Head, Hoover House, Max Palevsky Residential Commons East
+_Housing and Residence Life_
+
+### Washington University in St. Louis
+
+Instructor of Record
+> _English Department_
+> _Comparative Literature_
+> _First Year Program_
+
 # Publications
 
 ### Books and Volumes
 
-_Manuscript Meaning: Making MS Bodley 851_  
+_The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_  
 Boydell and Brewer (forthcoming, 2025).
-
-Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Special issue of _English Language Notes_ (forthcoming, Spring 2026).
 
 ### Peer Reviewed Articles
 
-“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55.2 (forthcoming, 2025).
+“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55, no. 2 (2025): 159-184.
 
-“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ (forthcoming, 2024).
+“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 34 (2024): 153-187.
 
 “Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56.
 
@@ -65,17 +58,52 @@ Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Speci
 
 “Poetics of Purgation in Seamus Heaney’s ‘Station Island’ Sequence,” _Philological Quarterly_ 101, no. 1-2 (2022): 111-133. [https://link.gale.com/apps/doc/A713671334/LitRC](https://link.gale.com/apps/doc/A713671334/LitRC "https://link.gale.com/apps/doc/A713671334/LitRC")
 
+### Edited Volumes
+
+Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Special issue of _English Language Notes_ (forthcoming, Spring 2026).
+
 ### Creative
 
-_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation (Under review). Previous edition available for playtesting: [https://towergrovegames.com/blog/please-playtest-exemplar/](https://towergrovegames.com/blog/please-playtest-exemplar/)
+_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation (Revise and resubmit, _Scholarship and Lore: Games for Learning_, an imprint of Central Michigan University Press).
+> Previous edition available for playtesting: [https://towergrovegames.com/blog/please-playtest-exemplar/](https://towergrovegames.com/blog/please-playtest-exemplar/)
+
+# Awards, Fellowships, and Grants
+
+## Fellowships
+
+New Chaucer Society Early Career Fellow at the Bodleian Library	(2024-25)
+
+## Grants
+
+New York Medieval Society Teaching Award	(2025)
+
+Medieval Academy of America Centennial Grant	(2024)
+
+University of Chicago, Regenstein Library Grant	(2024)
+
+## Subventions
+
+New York Medieval Society Book Subvention Award	(2024)
+
+## Other Funding
+
+New Chaucer Society Donald R. Howard Scholarship	(2024)
+
+Sewanee Medieval Colloquium Travel Award	(2024)
+
+International Piers Plowman Society Derek Pearsall Travel and Research Fund (2023; declined)
+
+New Chaucer Society Donald R. Howard Scholarship	(2022)
+
+New Chaucer Society Donald R. Howard Scholarship	(2018)
 
 # Works in progress
 
 ### Book Projects
 
-_Codicological Categories in Medieval England_ (in preparation)
+_Codicological Categories in Medieval England_ (in preparation).
 
-_Board Games as Literature: Agency, Imagination, and the Ludic Text_ (edited collection)
+_Board Games as Literature: Agency, Imagination, and the Ludic Text_ (in preparation).
 
 ### Articles
 
@@ -93,17 +121,35 @@ _Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspi
 
 # Papers Presented
 
-(Session Organizer) with Zachary Hines. “Postmedieval Collections and Compilations.”
-Congress of the New Chaucer Society. July 2024. Pasadena, CA.
+## Threads Organized
+
+“The Craft of Self.” Sewanee Medieval Colloquium. April 2024. Sewanee, TN.
+
+## Sessions Organized
+
+“Analog Medievalisms.” Congress of the New Chaucer Society. July 2026. Freiburg, Germany.
+
+“Interloping Latinities.” Congress of the New Chaucer Society. July 2026. Freiburg, Germany.
+
+With Angela Weisl, sponsored by the International Society for the Study of Medievalism. “Knights on the Table: Medievalism in Board Games.” International Congress on Medieval Studies. May 2025. Kalamazoo, MI.
+
+With Zachary Hines. “Postmedieval Collections and Compilations.” Congress of the New Chaucer Society. July 2024. Pasadena, CA.
+
+“Reading Medieval Miscellanies.” International Medieval Congress. July 2020. Leeds, U.K. Cancelled.
+
+## Papers Presented
+
+Discussant. “Designing Medieval Games: A Roundtable.” 
+International Congress on Medieval Studies. May 2025. Kalamazoo, MI.
+
+“Unauthoring Interpretation through Manuscript Production Units.”
+MLA Annual Convention. Panel: Unauthoring Middle English Studies. January 2025. New Orleans, LA.
 
 “Heaven’s Currency: Prayer, Debt, and Value in _Purgatorio_ and the _House of Fame_.”
 Congress of the New Chaucer Society. Panel: Debt and Indebtedness I: Indebted Communities. July 2024. Pasadena, CA.
 
 “Speculative Medievalisms in _A Memory Called Empire_.”
 International Congress on Medieval Studies. Panel: Science Fiction Medievalisms (3): Complex Readings. May 2025. Kalamazoo, MI.
-
-(Sub-theme Organizer) “The Craft of Self.”
-Sewanee Medieval Colloquium. April 2024. Sewanee, TN.
 
 “Plagiarism and Personhood in Michael of Cornwall’s _Invectives_ against Henry of Avranches.”
 Sewanee Medieval Colloquium. Panel: Community Identity in Literature. 
@@ -137,17 +183,29 @@ International Congress on Medieval Studies. Panel: Imagining the Afterlife. May 
 “A Coincidence of Form: Manuscript Formalisms and the Tyranny of the Text,”
 International Congress on Medieval Studies. Panel: Middle English Devotional Literature. May 2017. Kalamazoo, MI.
 
-# Awards, Fellowships, and Grants
+# Teaching Experience
 
-### New Chaucer Society
-Early Career Fellow at the Bodleian Library	(2024-25)
-Donald R. Howard Scholarship	(2024, 2022, 2018)
+## The University of Chicago
 
-### Sewanee Medieval Colloquium
-Travel Award (2024)
+Writing Specialist
+Humanities Core Sequence: Human Being and Citizen	Autumn 2021 - Present
 
-### International Piers Plowman Society
-Derek Pearsall Travel and Research Fund [declined] (2023)
+## Washington University in St. Louis
+
+Instructor
+Imagining the Medieval in Modern Fantasy and Science Fiction	Fall 2020
+
+Co-Instructor, with David Lawton
+Literature in English: Early Texts and Contexts	Fall 2018
+
+Teaching Assistant, with David Lawton
+Voice, Language and Power: Late Medieval Religious Writing	Spring 2018
+
+Instructor
+Writing I: What is Justice?	Fall 2017
+
+Instructor
+Writing I: What is Justice?	Fall 2016
 
 # Research and Editorial Positions
 
@@ -177,11 +235,11 @@ Early English Text Society
 
 ### University of Chicago
 
+Board Member, TEAMS Board of Directors (2024-present)
+
 Contributing Reviewer, International Congress on Medieval Studies (2024)
 
-Resident Head, Hoover House (2023-present)
-
-Co-convener, Midwest Middle English Reading Group
+Co-convener, Midwest Middle English Reading Group (2022-present)
 
 ### Washington University in St. Louis
 
