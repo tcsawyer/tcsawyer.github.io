@@ -34,23 +34,24 @@ _Housing and Residence Life_
 
 Instructor of Record
 > _English Department_
+>
 > _Comparative Literature_
+>
 > _First Year Program_
 
 # Publications
 
 ### Books and Volumes
 
-_The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_  
-Boydell and Brewer (forthcoming, 2025).
+_The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_ . Boydell and Brewer (forthcoming, 2025).
 
 ### Peer Reviewed Articles
 
 “Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55, no. 2 (2025): 159-184.
 
-“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 34 (2024): 153-187.
+“Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 34 (2024): 153-187. https://doi.org/10.1484/J.JML.5.136331
 
-“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56.
+“Michael of Cornwall’s First Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 33 (2023): 17-56. https://doi.org/10.1484/J.JML.5.136331
 
 "Wicked Wives and the Insatiable Virgin: Reading the Codicological Unconscious in a Fragment of MS Bodley 851." _Studies in the Age of Chaucer_ 44 (2022): 193-232. [https://muse.jhu.edu/pub/102/article/872794](https://muse.jhu.edu/pub/102/article/872794 "https://muse.jhu.edu/pub/102/article/872794")
 
