@@ -76,6 +76,8 @@ New Chaucer Society Early Career Fellow at the Bodleian Library	(2024-25)
 
 ## Grants
 
+Franke Institute Events Grant   (2025)
+
 New York Medieval Society Teaching Award	(2025)
 
 Medieval Academy of America Centennial Grant	(2024)
