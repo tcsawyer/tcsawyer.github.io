@@ -47,7 +47,7 @@ _The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_. B
 
 ### Peer Reviewed Articles
 
-“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55, no. 2 (2025): 159-184. [https://doi-org.proxy.uchicago.edu/10.1215/10829636-11716276](https://doi-org.proxy.uchicago.edu/10.1215/10829636-11716276)
+“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55, no. 2 (2025): 159-184. [https://doi.org/10.1215/10829636-11716276](https://doi.org/10.1215/10829636-11716276)
 
 “Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 34 (2024): 153-187. [https://doi.org/10.1484/J.JML.5.136331](https://doi.org/10.1484/J.JML.5.136331)
 
