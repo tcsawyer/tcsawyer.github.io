@@ -27,7 +27,7 @@ M.A. English and Comparative literature, WashU, 2017
 Writing Specialist, College Writing Program (September 2021 – Present)  
 _Humanities Core Sequence: Human Being and Citizen_
 
-Resident Head, Hoover House, Max Palevsky Residential Commons East
+Resident Head, Hoover House, Max Palevsky Residential Commons East  
 _Housing and Residence Life_
 
 ### Washington University in St. Louis
@@ -43,11 +43,11 @@ Instructor of Record
 
 ### Books and Volumes
 
-_The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_ . Boydell and Brewer (forthcoming, 2025).
+_The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_. Boydell and Brewer (2025). [link to publisher page](https://boydellandbrewer.com/book/the-making-and-meaning-of-a-medieval-manuscript/)
 
 ### Peer Reviewed Articles
 
-“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55, no. 2 (2025): 159-184.
+“Book Work: Toward an Extended Codicological Intentionalism.” _Journal of Medieval and Early Modern Studies_ 55, no. 2 (2025): 159-184. [https://doi-org.proxy.uchicago.edu/10.1215/10829636-11716276](https://doi-org.proxy.uchicago.edu/10.1215/10829636-11716276)
 
 “Michael of Cornwall’s Second Invective Against Henry of Avranches,” with Paul Vinhage. _Journal of Medieval Latin_ 34 (2024): 153-187. [https://doi.org/10.1484/J.JML.5.136331](https://doi.org/10.1484/J.JML.5.136331)
 
@@ -61,11 +61,12 @@ _The Making and Meaning of A Medieval Manuscript: Interpreting MS Bodley 851_ . 
 
 ### Edited Volumes
 
-Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_. Special issue of _English Language Notes_ (forthcoming, Spring 2026).
+Co-editor, with Arthur Bahr and Zachary Hines, _Metaphors of Compilation_.  
+Special issue of _English Language Notes_ (forthcoming, Spring 2026).
 
 ### Creative
 
-_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation (Revise and resubmit, _Scholarship and Lore: Games for Learning_, an imprint of Central Michigan University Press).
+_Exemplar_. A tabletop board game structured around late-medieval manuscript compilation.
 > Previous edition available for playtesting: [https://towergrovegames.com/blog/please-playtest-exemplar/](https://towergrovegames.com/blog/please-playtest-exemplar/)
 
 # Awards, Fellowships, and Grants
@@ -73,6 +74,8 @@ _Exemplar_. A tabletop board game structured around late-medieval manuscript com
 ## Fellowships
 
 New Chaucer Society Early Career Fellow at the Bodleian Library	(2024-25)
+
+Derek Pearsall Travel Award (2025)
 
 ## Grants
 
@@ -122,7 +125,7 @@ _Board Games as Literature: Agency, Imagination, and the Ludic Text_ (in prepara
 
 _Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspired by Dante’s _Purgatorio_ (In preparation).
 
-# Papers Presented
+# Conferences
 
 ## Threads Organized
 
@@ -130,7 +133,7 @@ _Purgatory’s Ponzi_. A tabletop board game that uses prayer as currency, inspi
 
 ## Sessions Organized
 
-“Analog Medievalisms.” Congress of the New Chaucer Society. July 2026. Freiburg, Germany.
+With Clint Morrison, Jr., sponsored by TEAMS. "Ludic Lessons." International Congress on Medieval Studies. May 2026. Kalamazoo, MI.
 
 “Interloping Latinities.” Congress of the New Chaucer Society. July 2026. Freiburg, Germany.
 
@@ -242,7 +245,7 @@ Board Member, TEAMS Board of Directors (2024-present)
 
 Contributing Reviewer, International Congress on Medieval Studies (2024)
 
-Co-convener, Midwest Middle English Reading Group (2022-present)
+Co-convener, Midwest Middle English Reading Group (2022-2025)
 
 ### Washington University in St. Louis
 
